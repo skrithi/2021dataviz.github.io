@@ -1,0 +1,10 @@
+body {
+  padding: 10px;
+}
+
+h1 {
+  color: #605D5E;
+  font-family: 'BentonSans', sans-serif;
+  font-size: 30px;
+  /*Font-weight: bold;*/
+}
